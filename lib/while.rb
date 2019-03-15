@@ -4,10 +4,3 @@ def using_while
 	  puts "Wingardium Leviosa"
     counter += 1
 end
-
-counter = 0
-while counter < 20
-
-  counter += 1
-end
-
